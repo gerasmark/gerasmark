@@ -1,4 +1,4 @@
-## Hi there 👋
+## Having fun building AI applications.
 
 <!--
 **gerasmark/gerasmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
