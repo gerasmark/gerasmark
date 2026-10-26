@@ -1,5 +1,5 @@
 ## Hi there, I'm Gerasimos👋!
-I'm an AI Research Engineer specializing in large language models (LLMs), deep learning, and music information retrieval (MIR). I currently work on explainable AI (XAI) for decision support systems, generative AI for scenario generation in cybersecurity and remote operations, and LLM applications for building energy use and CO2 emissions.
+I'm an AI Research Engineer specializing in large language models (LLMs), deep learning, and music information retrieval (MIR). 
 
 ## Having fun building AI applications.
 
